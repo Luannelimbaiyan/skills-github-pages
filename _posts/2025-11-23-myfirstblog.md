@@ -1,0 +1,5 @@
+---
+title: My First Blog
+date: 2025-11-23
+---
+whitespace week activity
